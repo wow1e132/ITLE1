@@ -5,4 +5,4 @@
 LE1_Salanguste
 Submission for IT130L 
 
-[website link] (wow1e132.github.io/it130lle1)
+<wow1e132.github.io/it130lle1>
